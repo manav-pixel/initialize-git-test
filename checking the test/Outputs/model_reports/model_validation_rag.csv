@@ -1,0 +1,2 @@
+metric_id,dev_value,val_value,delta,status,used,delta_pct
+psi_score_by_period,0.006515769978449178,0.0358278343636133,0.029312064385164125,Red,"{'compare_mode': 'delta_pct', 'green_max': 0.1, 'amber_max': 0.25, 'direction': 'lower_is_better', 'pvalue_green_min': 0.05, 'pvalue_amber_min': 0.01, 'dev_floor': 0.0}",449.8634003673148
