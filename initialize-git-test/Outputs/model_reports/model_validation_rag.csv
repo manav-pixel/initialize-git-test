@@ -1,0 +1,4 @@
+metric_id,dev_value,val_value,delta,status,used,delta_pct
+gini,0.8268599645017849,0.8149539630472193,-0.0119060014545655,Green,"{'compare_mode': 'delta_pct', 'green_max': 0.075, 'amber_max': 0.15, 'direction': 'lower_is_better', 'pvalue_green_min': 0.05, 'pvalue_amber_min': 0.01, 'dev_floor': 0.0}",-1.4399054211966082
+ks,0.685848493435453,0.6743660742406681,-0.0114824191947848,Green,"{'compare_mode': 'delta_pct', 'green_max': 0.1, 'amber_max': 0.25, 'direction': 'lower_is_better', 'pvalue_green_min': 0.05, 'pvalue_amber_min': 0.01, 'dev_floor': 0.0}",-1.6741917937690298
+mape,0.04249016440390894,0.16546884389123864,0.12297867948732971,Red,"{'compare_mode': 'delta_pct', 'green_max': 0.1, 'amber_max': 0.25, 'direction': 'lower_is_better', 'pvalue_green_min': 0.05, 'pvalue_amber_min': 0.01, 'dev_floor': 0.0}",289.42858003160876
